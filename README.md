@@ -1,7 +1,7 @@
 # Bot-Music-Discord-Free
 # Support soundcloud/youtube/spotify/href-stream
 # Server Support https://discord.gg/JhpAybsPYW
-# Don't forgot Vote <a href="https://top.gg/bot/751751095600021514">
+<a href="https://top.gg/bot/751751095600021514">
     <img src="https://top.gg/api/widget/751751095600021514.svg" alt="Royal" />
 </a>
 <!-- Remix Button -->
